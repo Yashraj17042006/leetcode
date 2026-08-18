@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Yashraj17042006/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Yashraj17042006/leetcode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Yashraj17042006/leetcode/tree/master/1528-shuffle-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Yashraj17042006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yashraj17042006/leetcode/tree/master/0001-two-sum) |
 | [1528-shuffle-string](https://github.com/Yashraj17042006/leetcode/tree/master/1528-shuffle-string) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Yashraj17042006/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Yashraj17042006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
