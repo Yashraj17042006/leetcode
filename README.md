@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Yashraj17042006/leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashraj17042006/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/Yashraj17042006/leetcode/tree/master/1528-shuffle-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Yashraj17042006/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashraj17042006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Yashraj17042006/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Yashraj17042006/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Yashraj17042006/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Array
 |  |
 | ------- |
