@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashraj17042006/leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashraj17042006/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Yashraj17042006/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yashraj17042006/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yashraj17042006/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Yashraj17042006/leetcode/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-shuffle-string](https://github.com/Yashraj17042006/leetcode/tree/master/1528-shuffle-string) |
 ## Math
@@ -68,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
