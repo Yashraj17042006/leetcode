@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yashraj17042006/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Yashraj17042006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Yashraj17042006/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashraj17042006/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashraj17042006/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yashraj17042006/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Yashraj17042006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Yashraj17042006/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashraj17042006/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Yashraj17042006/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Yashraj17042006/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
