@@ -15,9 +15,9 @@ class Solution {
             
             if (canShip(weights, days, mid)) {
                 result = mid;
-                high = mid - 1; // Try to find a smaller feasible capacity
+                high = mid - 1;
             } else {
-                low = mid + 1;  // Increase capacity
+                low = mid + 1;  
             }
         }
         
