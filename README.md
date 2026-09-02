@@ -70,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yashraj17042006/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1528-shuffle-string](https://github.com/Yashraj17042006/leetcode/tree/master/1528-shuffle-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Yashraj17042006/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Yashraj17042006/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yashraj17042006/leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashraj17042006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Yashraj17042006/leetcode/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Yashraj17042006/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
