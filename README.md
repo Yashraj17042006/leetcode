@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashraj17042006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Yashraj17042006/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashraj17042006/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Yashraj17042006/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yashraj17042006/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashraj17042006/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Yashraj17042006/leetcode/tree/master/0912-sort-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Yashraj17042006/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Yashraj17042006/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Matrix
 |  |
