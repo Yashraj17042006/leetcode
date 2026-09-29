@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Yashraj17042006/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yashraj17042006/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashraj17042006/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yashraj17042006/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yashraj17042006/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yashraj17042006/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Yashraj17042006/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yashraj17042006/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Matrix
 |  |
 | ------- |
